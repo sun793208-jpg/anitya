@@ -38,4 +38,4 @@ For details on how to contribute, check out the `contribution guide`_.
 
 .. _documentation: https://anitya.readthedocs.io/
 .. _contribution guide: https://anitya.readthedocs.io/en/latest/contributing.html
-.. _fedora messaging: https://fedora-messaging.readthedocs.io/en/latest
+.. _fedora messaging: https://fedora-messaging.readthedocs.io/en/largest 
